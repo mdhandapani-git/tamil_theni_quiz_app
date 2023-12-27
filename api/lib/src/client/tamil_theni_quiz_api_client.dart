@@ -60,7 +60,7 @@ class TamilTheniQuizApiClient {
     required TokenProvider tokenProvider,
     http.Client? httpClient,
   }) : this._(
-          baseUrl: 'http://10.0.2.2:8080',
+          baseUrl: 'http://localhost:8080',
           httpClient: httpClient,
           tokenProvider: tokenProvider,
         );
