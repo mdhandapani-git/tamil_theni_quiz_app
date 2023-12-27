@@ -1,0 +1,271 @@
+{
+  "project_info": {
+    "project_number": "1063553776784",
+    "firebase_url": "https://tamil-theni-quiz.firebaseio.com",
+    "project_id": "tamil-theni-quiz",
+    "storage_bucket": "tamil-theni-quiz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063553776784:android:b4aa2742fa40723b032c15",
+        "android_client_info": {
+          "package_name": "com.avvaitamilcenter.ttquiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063553776784-169aramg0gloh8qm5fuinbaaocjfgeu6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.avvaitamilcenter.ttquiz",
+            "certificate_hash": "a07c5abc70510b5d88b418705d95ce584378fd0a"
+          }
+        },
+        {
+          "client_id": "1063553776784-2rj6n19l8a2rc1uqg0rg7ejsenu16e3s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.avvaitamilcenter.ttquiz",
+            "certificate_hash": "788934d71c56c0d453a885a8f1fe3d7f8bad5581"
+          }
+        },
+        {
+          "client_id": "1063553776784-30epukbvbect7bnf2vp3ud8fg70ruc41.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.avvaitamilcenter.ttquiz",
+            "certificate_hash": "931d73cc2615b6ab18dad6d45317396632016c83"
+          }
+        },
+        {
+          "client_id": "1063553776784-dlejmas40h9q247om9eja13tjquop17p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.avvaitamilcenter.ttquiz",
+            "certificate_hash": "b8926a5069d3c5f4ce754b0df2f4fae172669f8f"
+          }
+        },
+        {
+          "client_id": "1063553776784-q8aabdho8locscis6fnbgouhsjsjk7eb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.avvaitamilcenter.ttquiz",
+            "certificate_hash": "2ce96098640711e2326b48973f30a0803912311a"
+          }
+        },
+        {
+          "client_id": "1063553776784-7iduhgdfua2i8o0iv7d35sre52q43sfd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY9tQ5paU9UHYR36P-LBh06ObvRtiNwps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063553776784-7iduhgdfua2i8o0iv7d35sre52q43sfd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1063553776784-a3fgfcbj7if1m6imc7khg0o93cgpmrqp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.tamiltheni.flashcards"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063553776784:android:6450f06d5c58c9b0032c15",
+        "android_client_info": {
+          "package_name": "com.avvaitamilcenter.ttquiz.my_test_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063553776784-uid5q0gno8bmjk4qq9sl09tjm02v1hed.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.avvaitamilcenter.ttquiz.my_test_app",
+            "certificate_hash": "a07c5abc70510b5d88b418705d95ce584378fd0a"
+          }
+        },
+        {
+          "client_id": "1063553776784-7iduhgdfua2i8o0iv7d35sre52q43sfd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY9tQ5paU9UHYR36P-LBh06ObvRtiNwps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063553776784-7iduhgdfua2i8o0iv7d35sre52q43sfd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1063553776784-a3fgfcbj7if1m6imc7khg0o93cgpmrqp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.tamiltheni.flashcards"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063553776784:android:954e3deeca6c183e032c15",
+        "android_client_info": {
+          "package_name": "com.tamiltheni.quiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063553776784-3d2dt60vr1d6t7n0ifg240r10lat71cb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tamiltheni.quiz",
+            "certificate_hash": "a07c5abc70510b5d88b418705d95ce584378fd0a"
+          }
+        },
+        {
+          "client_id": "1063553776784-apnu1bksr1ks6kk9hcfg3l2o4n1602hb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tamiltheni.quiz",
+            "certificate_hash": "3d3d7ed34619ef3b043c5bb55997a91bf526762f"
+          }
+        },
+        {
+          "client_id": "1063553776784-n4l0o2dsqrirnsu0e1vf8fb7t7jgg5k2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tamiltheni.quiz",
+            "certificate_hash": "e4e6660de08f61ec537825151faffcd6a2370150"
+          }
+        },
+        {
+          "client_id": "1063553776784-7iduhgdfua2i8o0iv7d35sre52q43sfd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY9tQ5paU9UHYR36P-LBh06ObvRtiNwps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063553776784-7iduhgdfua2i8o0iv7d35sre52q43sfd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1063553776784-a3fgfcbj7if1m6imc7khg0o93cgpmrqp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.tamiltheni.flashcards"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063553776784:android:7b5c06d673ad8571032c15",
+        "android_client_info": {
+          "package_name": "org.tamiltheni.flashcards"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063553776784-bqnrp9kg6lpdkq80cl2i8jmqlv4h7k6o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.tamiltheni.flashcards",
+            "certificate_hash": "e3029bcd394ba808f9cd92f28c9e2e804e8f5666"
+          }
+        },
+        {
+          "client_id": "1063553776784-7iduhgdfua2i8o0iv7d35sre52q43sfd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY9tQ5paU9UHYR36P-LBh06ObvRtiNwps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063553776784-7iduhgdfua2i8o0iv7d35sre52q43sfd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1063553776784-a3fgfcbj7if1m6imc7khg0o93cgpmrqp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.tamiltheni.flashcards"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063553776784:android:2f7988140f7a5fbd032c15",
+        "android_client_info": {
+          "package_name": "org.tamiltheni.quiz.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063553776784-7iduhgdfua2i8o0iv7d35sre52q43sfd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY9tQ5paU9UHYR36P-LBh06ObvRtiNwps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063553776784-7iduhgdfua2i8o0iv7d35sre52q43sfd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1063553776784-a3fgfcbj7if1m6imc7khg0o93cgpmrqp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.tamiltheni.flashcards"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

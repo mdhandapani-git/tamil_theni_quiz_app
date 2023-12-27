@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1063553776784-ah9jdrarbr3eus18l9549v8ug2pnbsod.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1063553776784-ah9jdrarbr3eus18l9549v8ug2pnbsod</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1063553776784-169aramg0gloh8qm5fuinbaaocjfgeu6.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAGe3W6KiECapTlQeSNxX4NKm09TBKfvIs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1063553776784</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.tamiltheni.quiz.app</string>
+	<key>PROJECT_ID</key>
+	<string>tamil-theni-quiz</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tamil-theni-quiz.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1063553776784:ios:67f6272f53e7917d032c15</string>
+	<key>DATABASE_URL</key>
+	<string>https://tamil-theni-quiz.firebaseio.com</string>
+</dict>
+</plist>
